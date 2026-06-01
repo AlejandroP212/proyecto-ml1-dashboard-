@@ -1,0 +1,26 @@
+{
+    "KNN": {
+        "f1_weighted_mean": 0.6653697331170997,
+        "f1_weighted_std": 0.04632904335214063,
+        "precision_mean": 0.6963704139293503,
+        "recall_mean": 0.6582750582750583
+    },
+    "Logistic Regression": {
+        "f1_weighted_mean": 0.7814207996126247,
+        "f1_weighted_std": 0.028431276615466506,
+        "precision_mean": 0.7908635201634096,
+        "recall_mean": 0.7780885780885781
+    },
+    "Naive Bayes": {
+        "f1_weighted_mean": 0.6869641813164276,
+        "f1_weighted_std": 0.014195169776645792,
+        "precision_mean": 0.7223860036994048,
+        "recall_mean": 0.6797202797202797
+    },
+    "Ridge": {
+        "f1_weighted_mean": 0.7156779956804804,
+        "f1_weighted_std": 0.020206597119311085,
+        "precision_mean": 0.7551649572012633,
+        "recall_mean": 0.7156177156177156
+    }
+}
